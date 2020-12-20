@@ -1,0 +1,1 @@
+grep -lr frida:rpc frida-*/* | xargs -n1 -I {} sed -i 's/frida:rpc/feicong:rpc/g' {}

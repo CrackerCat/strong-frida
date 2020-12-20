@@ -1,0 +1,1 @@
+sed -i 's/throw new Error.PROTOCOL (\"Unexpected command\")/break/g' frida-core/src/droidy/droidy-client.vala
