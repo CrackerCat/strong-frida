@@ -2,6 +2,8 @@
 
 make frida strong, bypass frida detection.
 
+automatically compile frida using github actions
+
 ## Anti Frida tricks
 
 [Anti Frida tricks](docs/README.md)
@@ -29,6 +31,9 @@ patch/frida-core/
 ## References
 
 https://github.com/hluwa/strongR-frida-android
+
 https://github.com/qtfreet00/AntiFrida
+
 https://github.com/darvincisec/DetectFrida
+
 https://github.com/b-mueller/frida-detection-demo
